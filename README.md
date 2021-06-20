@@ -20,4 +20,3 @@ You can view the refactored website [here](https://aidanamato.github.io/horiseon
 ## License
 
 [MIT](./LICENSE.txt)
-
