@@ -52,6 +52,7 @@ p {
     margin-left: 25px;
 }
 
+/* Hero Styling */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +60,13 @@ p {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
+}
+
+/* Content Styling */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 .float-left {
@@ -71,12 +79,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
+/* Sidebar Styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
