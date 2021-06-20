@@ -15,7 +15,7 @@ You can view the refactored website [here](https://aidanamato.github.io/horiseon
 
 ## Credits
 
-* [Starter Code](https://github.com/coding-boot-camp/urban-octo-telegram): UCF Coding Bootcamp
+[Starter Code](https://github.com/coding-boot-camp/urban-octo-telegram): UCF Coding Bootcamp
 
 ## License
 
